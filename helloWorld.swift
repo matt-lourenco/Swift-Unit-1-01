@@ -6,4 +6,4 @@
 //  Copyright © 2018 MTHS. All rights reserved.
 //
 
-print("Hello world!");
+print("Hello world!")
